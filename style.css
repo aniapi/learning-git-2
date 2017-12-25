@@ -1,13 +1,14 @@
 .container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-}
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
 h1 {
-	color: red;
-	font-size: 50px;
-}
+  color: red;
+  font-size: 50px; }
+
 p {
-	font-size: 30px
-}
+  font-size: 30px; }
+
+/*# sourceMappingURL=style.css.map */
